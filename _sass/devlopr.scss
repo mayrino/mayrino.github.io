@@ -677,7 +677,7 @@ header {
         width: 150px;
         height: 150px;
         margin-left: 20px;
-        border-radius: 50%;
+        /*border-radius: 50%;*/
     }
     .profile-name {
         margin-top: 20px;
@@ -730,7 +730,8 @@ header {
 .author-profile-img {
     width: 150px;
     height: 150px;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
+    border-radius: 2%;
 }
 
 .blog-post {
