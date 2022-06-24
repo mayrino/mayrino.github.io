@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Mayrino
+subtitle: A Website Records  Living Working Travelling for Me  build from devlopr-jekyll
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  mayrino website is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://mayrino.com" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,14 +25,14 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: MJ XIE
+author_bio: Hi, my name is MJ XIE. The website have been built base on devlopr-jekyll :D
+author_email: "info@mayrino.com"
+author_location: hangzhou,China
+author_website_url: "https://mayrino.com"
+typewrite-text:  A Website Records  Living and Working  for Me  build base on devlopr-jekyll #devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
-
+hero_cover_img_light: sample_cover_light.jpg 
 # Experiences
 author_work_experiences:
             - company_name: Google
@@ -164,6 +164,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-admin
+# - jekyll-coffeescript
 
 # Jekyll Admin Config
 jekyll_admin:
@@ -228,3 +229,8 @@ exclude:
 
 
 destination: ./build
+
+
+#sass:
+#    sass_dir: _sass
+#    style: compressed

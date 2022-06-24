@@ -1,7 +1,7 @@
 /* devlopr-jekyll styling */
 
 /* variables */
-$body-typeface:'Quicksand', sans-serif;
+$body-typeface: 'Quicksand', sans-serif;
 $nav-typeface: "Gill sans";
 $mono-typeface: Menlo, Monaco, monospace;
 $text-width: 650px;
@@ -22,6 +22,7 @@ html[data-theme="dark"] {
     --card-background-color: rgb(32, 32, 34);
     --newsletter-background-color: #222324;
     --button-background-color: #111;
+    --search-bg-color: rgba(0,0,0, 0.9); /* Black with a little bit see-through */
 }
 
 html,
@@ -42,6 +43,7 @@ html[data-theme="light"] {
     --card-background-color: rgb(250, 250, 250);
     --newsletter-background-color: #00000008;
     --button-background-color: #fff;
+    --search-bg-color: rgba(255, 255, 255, 0.95);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -289,6 +291,7 @@ header {
     height: 100%;
     background-color: rgba(0, 0, 0, 0.7);
     background-color: rgba(0,0,0, 0.9); /* Black with a little bit see-through */
+    background-color: var(--search-bg-color) !important;
     z-index: 101;
     white-space: nowrap;
     visibility:hidden;
@@ -1281,3 +1284,4 @@ footer {
 .highlight .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
 .highlight .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .highlight .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
+
