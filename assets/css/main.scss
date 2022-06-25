@@ -8,13 +8,12 @@
 /* custom css goes below */
 
 html[data-theme="dark"] {
-    --search-bg-color: rgba(0,0,0, 0.9); /* Black with a little bit see-through */
     --hero-cover-img: url('/assets/img/{{site.hero_cover_img}}');
     --hero-text-color:rgb(255,249,249);
 }
 
+html,
 html[data-theme="light"] {
-    --search-bg-color: rgba(255, 255, 255, 0.95);
     --hero-cover-img: url('/assets/img/{{site.hero_cover_img_light}}');
-    --hero-text-color:rgb(130, 240, 75);
+    --hero-text-color:rgb(51, 51, 51);
 }
