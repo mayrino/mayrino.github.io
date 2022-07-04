@@ -1,8 +1,9 @@
 ---
 identifier: john-doe-tshrirt
 name: John Doe Tshirt
-price: 50
+price: 50.00
 image: /assets/img/products/product1.jpg
+description: This is a high-quality replica of The Starry Night
 ---
 
 # John Doe Tshirt

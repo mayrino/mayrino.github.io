@@ -182,7 +182,7 @@ You can check out for all changelogs [here](https://devlopr.olvy.co/)
 
 ```s
 git remote -v
-git remote add upstream https://github.com/sujaykundu777/devlopr-jekyll.git
+git remote add upstream https://github.com/mayrino/mayrino.github.io.git
 git fetch upstream
 git checkout master
 git merge upstream/master

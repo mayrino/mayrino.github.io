@@ -1,8 +1,9 @@
 ---
 identifier: jekyll-starry-night-3
 name: John Doe Mug
-price: 10
+price: 10.00
 image: /assets/img/products/product3.jpg
+description: This is a high-quality replica of The Starry Night
 ---
 
 # John Doe Mug
