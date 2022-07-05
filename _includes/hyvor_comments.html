@@ -2,11 +2,21 @@
 
 <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = '{{ site.hyvor_talk_website_id }}';
-    var HYVOR_TALK_CONFIG = {
-        url: '{{ page.url | absolute_url }}',
-        id: '{{page.id}}',
-        palette: {
+   
+    /* default theme is dark */
+   var   paletteDark = {
+            accent: "#ffffff",
+            accentText: "#000000",
+            footerHeader: "#1b1818",
+            footerHeaderText: "#cac7c7",
+            box: "#232121",
+            boxText: "#ffffff",
+            boxLightText: "#aaaaaa",
+            backgroundText: "#ffffff"
+        };
+    /* hyvor light theme */
+   var paletteLight = {
+
             accent: "#EB8E3F",
             accentText: "#080808",
             footerHeader: "#171616",
@@ -15,8 +25,29 @@
             boxText: "#E0E0E0",
             boxLightText: "#AAAAAA",
             backgroundText: "#E0E0E0"
-        }
+   };
+        
+    var HYVOR_TALK_WEBSITE = '{{ site.hyvor_talk_website_id }}';
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}',
+        palette: sessionStorage.getItem('theme')=== 'light' ? paletteLight : paletteDark ,
     };
+
+
+    function toggleHyvorTheme( event ) {
+       
+       let mainColorScheme  = sessionStorage.getItem('theme');
+       console.log( mainColorScheme ); 
+       if( mainColorScheme === 'light')
+           hyvor_talk.setPalette( paletteLight );
+
+       if( mainColorScheme === 'dark')
+          hyvor_talk.setPalette( paletteDark );
+   }
+
+   document.getElementById('theme-toggle').addEventListener('click', toggleHyvorTheme);
+
 </script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
 
