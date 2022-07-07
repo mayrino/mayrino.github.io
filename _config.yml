@@ -165,6 +165,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-admin
+#  - jekyll-algolia
 # - jekyll-coffeescript
 
 # Jekyll Admin Config
@@ -176,6 +177,14 @@ jekyll_admin:
   #   - datafiles
   #   - configuration
   homepage: "posts"
+
+#  configure for algolia from algolia.com
+#algolia:
+#  application_id: SUGR8SHSHA
+#  index_name: blog_posts # You can replace that with whatever name you want
+  #files_to_exclude: []
+  #nodes_to_index: 'article'
+#  search_only_api_key: 7e583d0c642214ba577d2186905fad93
 
 
 # Exclude from processing.

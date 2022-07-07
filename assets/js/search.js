@@ -29,7 +29,7 @@ $(document).ready(function() {
       $('.search-form-container').removeClass('is-active');
     });
 
-    search_field.ghostHunter({
+  search_field.ghostHunter({
       results: search_results,
       onKeyUp         : true,
       rss             : base_url + '/feed.xml',
