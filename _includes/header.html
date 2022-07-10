@@ -5,14 +5,16 @@
   </button>
   <a class="navbar-brand" href="/">{{site.title}}</a>
   <div class="collapse navbar-collapse" id="navbarNav">
+    {%- assign page_url = page.url | remove: '/' -%}
     <ul class="navbar-nav">
       {% for i in site.urls %}
-      <li class="nav-item">
-        <a class="nav-link" href="{{ site.url}}{{site.baseurl}}{{ i.url }}">{{ i.text }}</a>
+      <li class="nav-item ">
+        {%-assign link_url =   i.url | remove: '/' -%}
+        <a class="nav-link {% if page_url  == link_url  %} active {% endif %}"   href="{{ site.url}}{{site.baseurl}}{{ i.url }}">{{ i.text }}</a>
       </li>
       {% endfor %}
 
-    </ul>
+    </ul
   </div>
   <ul class="nav justify-content-end">
     <li class="nav-item">

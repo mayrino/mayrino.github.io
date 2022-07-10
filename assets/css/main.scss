@@ -10,11 +10,20 @@
 html[data-theme="dark"] {
     --hero-cover-img: url('/assets/img/{{site.hero_cover_img}}');
     --hero-text-color: rgb(255,249,249);
+    --nav-link-active-color:rgba(255,255,255,0.85);
 }
 
 html,
 html[data-theme="light"] {
     --hero-cover-img: url('/assets/img/{{site.hero_cover_img_light}}');
     --hero-text-color: rgb(51, 51, 51);
+    --nav-link-active-color:purple;
+}
+
+
+.navbar-nav  .nav-item .nav-link:hover,
+.navbar-nav  .nav-item .nav-link:focus,
+.navbar-nav  .nav-item .nav-link.active {
+  color:  var(--nav-link-active-color) !important;
 }
 
