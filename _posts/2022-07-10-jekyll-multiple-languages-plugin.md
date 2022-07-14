@@ -3,7 +3,7 @@ layout: post
 title:  "Jekyll multiple languages Plugin"
 summary: "Learn how to add multi languages in jekyll sites"
 author: mjxie
-date: '2022-07-10 22:02:18'
+date: '2022-07-10 22:02:18 +0530'
 category: jekyll
 thumbnail: /assets/img/posts/jekyll_multiple_languages_plugin_logo.png
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, mayrino mayjay zhaogemao
