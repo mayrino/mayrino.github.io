@@ -19,15 +19,15 @@ Jekyll Multiple Languages 是 Jekyll 的一个国际化插件。它使用与 Rai
 
 该插件是在[Daresay开发的程序](https://daresay.co)
 
-##### Badges
+### Badges
 [![Build Status](https://travis-ci.com/kurtsson/jekyll-multiple-languages-plugin.svg?branch=master)](https://travis-ci.com/kurtsson/jekyll-multiple-languages-plugin)
 [![Gem Version](https://badge.fury.io/rb/jekyll-multiple-languages-plugin.png)](http://badge.fury.io/rb/jekyll-multiple-languages-plugin)
 
-#### !!我们正在寻找更多的维护者!!  
+### !!我们正在寻找更多的维护者!!  
 * * * *
 你在用这个插件吗？即将加入的程序猿,你能帮忙测试和验证此插件吗？请为我们呐喊一个！   
 
-#### 目录
+### 目录
 * * * * 
 - [jekyll 多语言插件](#-jekyll-HTML5-网站生成器-多语言插件)
     - [Badges](#badges)
@@ -119,7 +119,7 @@ $ git pull origin master
 
 ### 4. 配置
 * * * * 
-#### 4.1. _config.yml
+#### 4.1. _config.yml     
 将您网站中可用的语言添加到您的 _config.yml 文件中(必须的)！
 ```yaml    
 languages:["en","zh","de","fr"]
@@ -398,7 +398,7 @@ languages: ["zh", "en", "es", "de"]
 假设您想为示例网站创建一个`about`页面，您将创建`about.html`在网站的根目录（与`index.html`同的位置）下，其中：
 
 {% raw %}
-```
+```ruby
 ---
 layout: page
 title: About
