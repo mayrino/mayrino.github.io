@@ -119,13 +119,16 @@ $ git pull origin master
 
 ### 4. 配置
 * * * * 
-#### 4.1. _config.yml     
-将您网站中可用的语言添加到您的 _config.yml 文件中(必须的)！
+#### 4.1. `_config.yml`     
+
+将您网站中可用的语言添加到您的 _config.yml 文件中(必须的)！ 
+
 ```yaml    
 languages:["en","zh","de","fr"]
 ```
 数组中的第一种语言将是默认语言英语，简体中文，德语和法语将被添加到单独的子文件夹中。
-为了避免冗余，可以将有些文件和文件夹在复制到本地化文件夹中时排除在外。    
+为了避免冗余，可以将有些文件和文件夹在复制到本地化文件夹中时排除在外。  
+
 ```yaml 
 exclude_from_localizations: ["javascript", "images", "css"]
 ```
