@@ -57,7 +57,7 @@ Blender 的功能列表非常庞大，但这里有一些值得关注的功能。
 
 [Download Blender](https://blender.org/download)
 
-* * * *
+** * * * *
 
 ### 2. Lightworks
 
@@ -81,6 +81,8 @@ Blender 的功能列表非常庞大，但这里有一些值得关注的功能。
 
 [Download Lightworks](https://lwks.com/?option=com_lwks&view=download&Itemid=206)
 
+** * * * *
+
 ### 3. Shotcut
 
 [Shotcut](https://shotcut.org)是另一款免费的、开源的、跨平台的视频编辑器，具有很多功能。主要功能包括支持多种格式；无需导入意味着本地化时间线在线编辑；Blackmagic Design 支持输入和预览监控；以及对 4k 的分辨率支持。
@@ -100,6 +102,8 @@ Shotcut的显着特点：
 
 [Download Shotcut](https://shotcut.org/download/)
 
+** * * * *
+
 ### 4. Avidemux
 
 如果您只是视频编辑、学习或业余爱好者的初学者，[Avidemux](http://avidemux.sourceforge.net/)是您的理想选择。这个免费的开源视频编辑器专为简单的剪切、过滤和编码任务而设计。作为一个基本的视频编辑器，它支持多种文件格式。您还可以使用项目、作业队列和强大的脚本功能自动执行任务。
@@ -109,6 +113,8 @@ Shotcut的显着特点：
 <div style="color:var(--main-text-color);text-align:center;"> Avidemux 视频编辑器</div>
 
 [Download Avidemux](http://avidemux.sourceforge.net/download.html)
+
+** * * * *
 
 ### 5. HitFilm Express
 
@@ -133,6 +139,8 @@ Shotcut的显着特点：
 
 [Download Hitfilm express](https://fxhome.com/hitfilm-express)
 
+** * * * *
+
 ### 6. DaVinci Resolve
 
 [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve/)这是目前最专业的视频编辑器，能够进行8K编辑，将专业的 8K 剪辑、色彩校正、视觉效果和音频后期制作结合在一个制作工具中，这就是为什么它是许多专业电影、电视节目和广告剪辑师的首选软件。DaVinci Resolve可用于 Linux、Mac 和 Windows,免费和付费完整的Studio版本。DaVinci 同时支持离线和在线编辑，其高性能播放引擎可在编辑和修整时节省时间——即使对于 H.264 和 RAW 等处理器密集型文件格式也是如此。DaVinci Resolve 的复杂功能可能对某些用户来说过于广泛，但它的免费版本非常适合更高级的项目。
@@ -151,6 +159,8 @@ Shotcut的显着特点：
 - 高质量的运动估计速度变化和帧速率转换，以轻松、真实地加速或减慢剪辑 High-quality motion estimation speed changes and frame rate conversions to easily and realistically speed up or slow down clips
 
 [Download DaVinci](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+** * * * *
 
 ### 7. Openshot
 
@@ -180,6 +190,8 @@ Shotcut的显着特点：
 
 [Download Openshot](https://openshot.org/download)
 
+** * * * *
+
 ### 8. Kdenlive
 
 [Kdenlive](https://kdenlive.org)是一个15年以上的开源视频编辑器应用程序。KDenlive 是基于 QT 框架的免费开源视频编辑器，由一些最好的 FFMpeg、frei0r、movit、ladspa、sox 框架提供支持。此视频编辑器适用于具有一些附加高级功能的普通用户 - 但掌握和学习的内容并不多。
@@ -204,6 +216,8 @@ Shotcut的显着特点：
 - 主题化界面 Themable Interface
 
 [Download KDenlive](https://kdenlive.org/en/download/)
+
+** * * * *
 
 ### 9. Flowblade
 
@@ -230,6 +244,8 @@ Shotcut的显着特点：
 
 [Download Flowblade](https://jliljebl.github.io/flowblade/download.html)
 
+** * * * *
+
 ### 10. Olive
 
 [Olive](https://olivevideoeditor.org)是一款免费的非线性视频编辑器，旨在为高端专业视频编辑软件提供功能齐全的替代方案。它目前正在开发中，处于 ALPHA 阶段。从兴趣来看，似乎很有希望，用户正在通过 Olive 制作视频。但是，作为 ALPHA 版本，目前不建议用于专业工作，但您仍然可以尝试一下。
@@ -242,9 +258,11 @@ Olive适用于Windows, Liunx 和Mac,你可以通过以下链接下载：
 
 [Download Olive](https://www.olivevideoeditor.org/download.php)
 
+** * * * *
+
 ## 如何选择视频编辑器
 
-有很多基于桌面的编辑软件可供希望制作宣传视频的企业使用。台式机免费视频编辑软件的最大优势在于，它们往往比大多数移动[视频编辑应用程序](#-)具有更多功能。
+有很多基于桌面的编辑软件可供希望制作宣传视频的企业使用。台式机免费视频编辑软件的最大优势在于，它们往往比大多数移动[视频编辑应用程序](#最佳-top-10-免费开源专业短视频剪辑应用程序-pc-apps)具有更多功能。
 
 无论您是为 YouTube 还是 TikTok 编辑视频，请牢记以下注意事项：
 
@@ -265,7 +283,7 @@ Olive适用于Windows, Liunx 和Mac,你可以通过以下链接下载：
 
 ## The End
 
------------------
+** * * * *
 
 我们试图为您提供跨平台可用的免费视频编辑器指南，并帮助您根据自己的品味和用例进行选择。这个列表当然并不详尽，因为还有其他应用程序。
 
