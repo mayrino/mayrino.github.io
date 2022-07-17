@@ -55,7 +55,7 @@ Blender 的功能列表非常庞大，但这里有一些值得关注的功能。
 - Interface 接口
 - Pipeline 管道
 
-[Download Blender](https://blender.org/download)
+<a href="https://blender.org/download" target="_blank">Download Blender</a>
 
 ** * * * *
 
@@ -79,7 +79,7 @@ Blender 的功能列表非常庞大，但这里有一些值得关注的功能。
 - Wide file format support including variable frame rate media 广泛的文件格式支持，包括可变帧率媒体
 - Grade your sequence professionally utilising up to 32bit GPU precision and histogram tool 使用高达 32 位 GPU 精度和直方图工具对您的序列进行专业分级
 
-[Download Lightworks](https://lwks.com/?option=com_lwks&view=download&Itemid=206)
+<a href="https://lwks.com/?option=com_lwks&view=download&Itemid=206" target="_blank">Download Lightworks</a>
 
 ** * * * *
 
@@ -100,7 +100,7 @@ Shotcut的显着特点：
 - Plugins 插件
 - Audio and Video filters 音频和视频过滤器
 
-[Download Shotcut](https://shotcut.org/download/)
+<a href="https://shotcut.org/download/" target="_blank">Download Shotcut</a>
 
 ** * * * *
 
@@ -112,7 +112,7 @@ Shotcut的显着特点：
 
 <div style="color:var(--main-text-color);text-align:center;"> Avidemux 视频编辑器</div>
 
-[Download Avidemux](http://avidemux.sourceforge.net/download.html)
+<a href="http://avidemux.sourceforge.net/download.html" target="_blank">Download Avidemux</a>
 
 ** * * * *
 
@@ -137,7 +137,7 @@ Shotcut的显着特点：
 - 音频混音器，用于微调声音以提供专业品质的输出 Audio mixer for fine-tuning sound for professional quality output
 - 各种过渡选项，例如推送、缩放和溶解 Various transition options, such as push, zoom, and dissolve
 
-[Download Hitfilm express](https://fxhome.com/hitfilm-express)
+<a href="https://fxhome.com/hitfilm-express" target="_blank">Download Hitfilm express</a>
 
 ** * * * *
 
@@ -158,7 +158,7 @@ Shotcut的显着特点：
 - 面部识别可检测剪辑中的面部并根据每个镜头中的人物自动创建素材箱 Facial recognition that detects faces in your clips and automatically creates bins based on the people in each shot
 - 高质量的运动估计速度变化和帧速率转换，以轻松、真实地加速或减慢剪辑 High-quality motion estimation speed changes and frame rate conversions to easily and realistically speed up or slow down clips
 
-[Download DaVinci](https://www.blackmagicdesign.com/products/davinciresolve/)
+<a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank">Download DaVinci</a>
 
 ** * * * *
 
@@ -188,7 +188,7 @@ Shotcut的显着特点：
 
 如果您是视频编辑的初学者并第一次尝试，这是您应该使用的编辑器来感受它
 
-[Download Openshot](https://openshot.org/download)
+<a href="https://openshot.org/download" target="_blank">Download Openshot</a>
 
 ** * * * *
 
@@ -215,7 +215,7 @@ Shotcut的显着特点：
 - 关键帧效果 Keyframeable effect
 - 主题化界面 Themable Interface
 
-[Download KDenlive](https://kdenlive.org/en/download/)
+<a href="https://kdenlive.org/en/download/" target="_blank">Download KDenlive</a>
 
 ** * * * *
 
@@ -242,7 +242,7 @@ Shotcut的显着特点：
 
 <div style="color:var(--main-text-color);text-align:center;"> Flowblade 视频编辑器</div>
 
-[Download Flowblade](https://jliljebl.github.io/flowblade/download.html)
+<a href="https://jliljebl.github.io/flowblade/download.html" target="_blank">Download Flowblade</a>
 
 ** * * * *
 
@@ -256,7 +256,7 @@ Shotcut的显着特点：
 
 Olive适用于Windows, Liunx 和Mac,你可以通过以下链接下载：
 
-[Download Olive](https://www.olivevideoeditor.org/download.php)
+<a href="https://www.olivevideoeditor.org/download.php" target="_blank">Download Olive</a>
 
 ** * * * *
 
