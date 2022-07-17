@@ -37,7 +37,7 @@ usemathjax: false
 
 [Blender](https://blender.org)是一个免费和开源的视频编辑器，3D 建模软件，用于创建电影、动画电影、渲染、模拟、运动跟踪等等。Blender 是世界各地数百人使用和贡献的非常流行的工具。主要由工作室和个人艺术家、专业人士和业余爱好者、科学家、学生、视觉特效专家、动画师、游戏艺术家、模组制作者使用，而且名单还在继续。
 
-<img src="/assets/img/posts/vedio-editors/Blender-Video-Editor.jpg?raw=true;"  width="750px" title="blender vedio editor" alt="Blender vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Blender-Video-Editor.jpg?raw=true;"  class="img-fluid" title="blender vedio editor" alt="Blender vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Blender vedio editor</div>
 
@@ -64,7 +64,7 @@ Blender 的功能列表非常庞大，但这里有一些值得关注的功能。
 [Lightworks](https://lwks.com)
 是一款免费,专业版本增值视频编辑器，能够为社交媒体、4K 视频和电影编辑视频。Lightworks 也被用于一些流行的好莱坞电影编辑。这个非线性视频编辑器可以免费下载，您可能需要为一些附加功能付费。
 
-<img src="/assets/img/posts/vedio-editors/Lightworks-Video-Editor-1024x557.jpg?raw=true;"  width="750px" title="lightworks vedio editor" alt="Lightworks vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Lightworks-Video-Editor-1024x557.jpg?raw=true;"  class="img-fluid" title="lightworks vedio editor" alt="Lightworks vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Lightworks 视频编辑器</div>
 
@@ -87,7 +87,7 @@ Blender 的功能列表非常庞大，但这里有一些值得关注的功能。
 
 [Shotcut](https://shotcut.org)是另一款免费的、开源的、跨平台的视频编辑器，具有很多功能。主要功能包括支持多种格式；无需导入意味着本地化时间线在线编辑；Blackmagic Design 支持输入和预览监控；以及对 4k 的分辨率支持。
 
-<img src="/assets/img/posts/vedio-editors/Shotcut-Video-Editor-1024x644.jpg?raw=true;"  width="750px" title="Shotcut vedio editor" alt="Shotcut vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Shotcut-Video-Editor-1024x644.jpg?raw=true;"  class="img-fluid" title="Shotcut vedio editor" alt="Shotcut vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Shotcut 视频编辑器</div>
 
@@ -108,7 +108,7 @@ Shotcut的显着特点：
 
 如果您只是视频编辑、学习或业余爱好者的初学者，[Avidemux](http://avidemux.sourceforge.net/)是您的理想选择。这个免费的开源视频编辑器专为简单的剪切、过滤和编码任务而设计。作为一个基本的视频编辑器，它支持多种文件格式。您还可以使用项目、作业队列和强大的脚本功能自动执行任务。
 
-<img src="/assets/img/posts/vedio-editors/Avidemux-Video-Editor.png?raw=true;"  width="750px" title="Avidemux vedio editor" alt="Avidemux vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Avidemux-Video-Editor.png?raw=true;"  class="img-fluid" title="Avidemux vedio editor" alt="Avidemux vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Avidemux 视频编辑器</div>
 
@@ -120,7 +120,7 @@ Shotcut的显着特点：
 
 [HitFilm Express](https://fxhome.com/hitfilm-express)是一个很棒的视频编辑器 - 可以免费下载 - 顾名思义 - 快速版本。HitFilm express 功能丰富并经过专业开发，是初学者、YouTube 创作者和电影制作人的理想视频编辑器。但是，它仅适用于 Windows 和 Mac。考虑到linux用户群低，Linux 版本尚未盈利。  
 
-<img src="/assets/img/posts/vedio-editors/Hitfilm-Express-Video-Editor-1024x572.jpg?raw=true;"  width="750px" title="Hitfile Express vedio editor" alt="Hitfilm express vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Hitfilm-Express-Video-Editor-1024x572.jpg?raw=true;"  class="img-fluid" title="Hitfile Express vedio editor" alt="Hitfilm express vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Hitfilm express 视频编辑器</div>
 
@@ -145,7 +145,7 @@ Shotcut的显着特点：
 
 [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve/)这是目前最专业的视频编辑器，能够进行8K编辑，将专业的 8K 剪辑、色彩校正、视觉效果和音频后期制作结合在一个制作工具中，这就是为什么它是许多专业电影、电视节目和广告剪辑师的首选软件。DaVinci Resolve可用于 Linux、Mac 和 Windows,免费和付费完整的Studio版本。DaVinci 同时支持离线和在线编辑，其高性能播放引擎可在编辑和修整时节省时间——即使对于 H.264 和 RAW 等处理器密集型文件格式也是如此。DaVinci Resolve 的复杂功能可能对某些用户来说过于广泛，但它的免费版本非常适合更高级的项目。
 
-<img src="/assets/img/posts/vedio-editors/davinci.jpg?raw=true;"  width="750px" title="DaVinci Resolve vedio editor" alt="DaVinci Resolve vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/davinci.jpg?raw=true;"  class="img-fluid" title="DaVinci Resolve vedio editor" alt="DaVinci Resolve vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> DaVinci Resolve 视频编辑器</div>  
 
@@ -166,7 +166,7 @@ Shotcut的显着特点：
 
 [Openshot](https://openshot.org) 易于使用的用户界面使其成为适合中级编辑的出色视频编辑程序。虽然更复杂的工具可能会提供更多的编辑组件，但 OpenShot 的直观界面和极简设计非常适合简单的编辑。OpenShot 是小型企业的有效选择，最适合剪辑调整大小、缩放、修剪、捕捉和旋转。它还提供字幕滚动、帧步进、时间映射、音频编辑和实时预览。它适用于 Windows、Linux 和 Mac。
 
-<img src="/assets/img/posts/vedio-editors/openshot.jpg?raw=true;"  width="750px" title="OpenShot  vedio editor" alt="OpenShot vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/openshot.jpg?raw=true;"  class="img-fluid" title="OpenShot  vedio editor" alt="OpenShot vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> OpenShot 视频编辑器</div>
 
@@ -196,7 +196,7 @@ Shotcut的显着特点：
 
 [Kdenlive](https://kdenlive.org)是一个15年以上的开源视频编辑器应用程序。KDenlive 是基于 QT 框架的免费开源视频编辑器，由一些最好的 FFMpeg、frei0r、movit、ladspa、sox 框架提供支持。此视频编辑器适用于具有一些附加高级功能的普通用户 - 但掌握和学习的内容并不多。
 
-<img src="/assets/img/posts/vedio-editors/KDenlive.jpg?raw=true;"  width="750px" title="KDenlive  vedio editor" alt="KDenlive vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/KDenlive.jpg?raw=true;"  class="img-fluid" title="KDenlive  vedio editor" alt="KDenlive vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> KDenlive 视频编辑器</div>
 
@@ -238,7 +238,7 @@ Shotcut的显着特点：
 - Rendering 渲染
 - MLT supported video and audio codecs MLT 支持的视频和音频编解码器
 
-<img src="/assets/img/posts/vedio-editors/Flowblade.jpg?raw=true;"  width="750px" title="Flowblade  vedio editor" alt="Flowblade vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Flowblade.jpg?raw=true;"  class="img-fluid" title="Flowblade  vedio editor" alt="Flowblade vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Flowblade 视频编辑器</div>
 
@@ -250,7 +250,7 @@ Shotcut的显着特点：
 
 [Olive](https://olivevideoeditor.org)是一款免费的非线性视频编辑器，旨在为高端专业视频编辑软件提供功能齐全的替代方案。它目前正在开发中，处于 ALPHA 阶段。从兴趣来看，似乎很有希望，用户正在通过 Olive 制作视频。但是，作为 ALPHA 版本，目前不建议用于专业工作，但您仍然可以尝试一下。
 
-<img src="/assets/img/posts/vedio-editors/Olive.jpg?raw=true;"  width="750px" title="Olive  vedio editor" alt="Olive vedio editor"/>
+<img src="/assets/img/posts/vedio-editors/Olive.jpg?raw=true;"  class="img-fluid" title="Olive  vedio editor" alt="Olive vedio editor"/>
 
 <div style="color:var(--main-text-color);text-align:center;"> Olive 视频编辑器</div>
 
