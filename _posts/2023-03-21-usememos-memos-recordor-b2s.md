@@ -3,7 +3,7 @@ layout: post
 title:  "A lightweight, self-hosted memo hub. Open Source and Free forever"
 summary: "An open-source, self-hosted memo hub with knowledge management and social networking."
 author: mjxie
-date: '2023-03-21 00:16:18 +1130'
+date: '2023-03-21 00:16:18 +0130'
 category: apps
 thumbnail: /assets/img/posts/memos/mayrino-memos-profile.png
 keywords: react go docker, markdown memo sqlite ,self-hosted free note-talking github, mayrino mayjay zhaogemao
@@ -47,7 +47,7 @@ usemathjax: true
 ```
 {% endraw %}
 
-> **The  ``` ~/.memos/directory``` will be used as the data directory on your local machine, while ``` /var/opt/memos``` is the directory of the volume in Docker and should not be modified.**
+> **The  `~/.memos/directory` will be used as the data directory on your local machine, while `/var/opt/memos` is the directory of the volume in Docker and should not be modified.**
 
 
 ### [Othors Installation methods](#othors-installation-methods)
