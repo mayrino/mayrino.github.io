@@ -247,3 +247,8 @@ destination: ./build
 #sass:
 #    sass_dir: _sass
 #    style: compressed
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  gfm_quirks: [paragraph_end]
